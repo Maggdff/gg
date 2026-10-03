@@ -1,0 +1,418 @@
+{
+"items": [
+{
+"en": "memory (n)",
+"ar": "الذاكرة",
+"def": "the part of a computer where information is stored.",
+"cat": "vocab"
+},
+{
+"en": "monitor (n)",
+"ar": "الشاشة",
+"def": "a computer screen that shows information or pictures",
+"cat": "vocab"
+},
+{
+"en": "case (n)",
+"ar": "صندوق الجهاز (الهيكل)",
+"def": "the box of a computer that contains the hardware.",
+"cat": "vocab"
+},
+{
+"en": "application (n)",
+"ar": "تطبيق / برنامج",
+"def": "a computer program",
+"cat": "vocab"
+},
+{
+"en": "user-friendly (adj)",
+"ar": "سهل الاستخدام",
+"def": "easy to use, understand or operate.",
+"cat": "vocab"
+},
+{
+"en": "update",
+"ar": "تحديث / يحدّث",
+"def": "make it new or recent.",
+"cat": "vocab"
+},
+{
+"en": "access (v)",
+"ar": "يدخل إلى / يصل إلى",
+"def": "to enter, for example a website",
+"cat": "vocab"
+},
+{
+"en": "back up (phr v)",
+"ar": "نسخ احتياطي",
+"def": "to make a copy of information stored on a computer",
+"cat": "vocab"
+},
+{
+"en": "website (n)",
+"ar": "موقع إلكتروني",
+"def": "a place on the internet where you can find information about something,",
+"cat": "vocab"
+},
+{
+"en": "burn (v)",
+"ar": "يحرق (يسجّل على قرص)",
+"def": "if you burn a CD or DVD, you record music, images or other information onto it using special computer equipment",
+"cat": "vocab"
+},
+{
+"en": "troubleshoot (v)",
+"ar": "يكتشف الأعطال ويصلحها",
+"def": "to solve problems that a computer is having",
+"cat": "vocab"
+},
+{
+"en": "developer (n)",
+"ar": "مطوّر",
+"def": "a person that works on a new idea, product, etc.",
+"cat": "term"
+},
+{
+"en": "database analyst (n)",
+"ar": "محلل قواعد البيانات",
+"def": "a person who is responsible for the design of databases",
+"cat": "term"
+},
+{
+"en": "network architect",
+"ar": "مهندس شبكات (مصمم الشبكة)",
+"def": "A person who designs and plans the network.",
+"cat": "term"
+},
+{
+"en": "network administrator (n)",
+"ar": "مدير الشبكة",
+"def": "A person who creates usernames, passwords and set firewalls.",
+"cat": "term"
+},
+{
+"en": "IT support (n)",
+"ar": "الدعم التقني",
+"def": "assistance with computer and software products",
+"cat": "term"
+},
+{
+"en": "IT support officer (n)",
+"ar": "مسؤول الدعم التقني",
+"def": "Who makes sure all computers work properly.",
+"cat": "term"
+},
+{
+"en": "team leader (n)",
+"ar": "قائد الفريق",
+"def": "a person who gives guidance, instruction, direction, etc. to a group of other people at work",
+"cat": "term"
+},
+{
+"en": "system maintenance officer (n)",
+"ar": "مسؤول صيانة الأنظمة",
+"def": "a person responsible for the maintenance of hardware and software on a computer network",
+"cat": "term"
+},
+{
+"en": "programmer (n)",
+"ar": "مبرمج",
+"def": "someone whose job is to write digital code [= sets of instructions for computers]",
+"cat": "term"
+},
+{
+"en": "workshop (n)",
+"ar": "ورشة عمل",
+"def": "a meeting at which people try to improve their skills by discussing their experiences and doing practical exercises",
+"cat": "term"
+},
+{
+"en": "session (n)",
+"ar": "جلسة / حصة",
+"def": "a period of time used for a particular activity, especially by a group of people",
+"cat": "term"
+},
+{
+"en": "IT",
+"ar": "تكنولوجيا المعلومات",
+"def": "Information Technology",
+"cat": "acronym"
+},
+{
+"en": "PC",
+"ar": "الحاسوب الشخصي",
+"def": "Personal Computer",
+"cat": "acronym"
+},
+{
+"en": "CPU",
+"ar": "وحدة المعالجة المركزية",
+"def": "Central Processing Unit",
+"cat": "acronym"
+},
+{
+"en": "RAM",
+"ar": "ذاكرة الوصول العشوائي",
+"def": "Random Access Memory",
+"cat": "acronym"
+},
+{
+"en": "ROM",
+"ar": "ذاكرة القراءة فقط",
+"def": "Read Only Memory",
+"cat": "acronym"
+},
+{
+"en": "PDF",
+"ar": "صيغة المستند المحمول",
+"def": "Portable Document Format",
+"cat": "acronym"
+},
+{
+"en": "CD",
+"ar": "القرص المضغوط",
+"def": "Compact Disc",
+"cat": "acronym"
+},
+{
+"en": "DVD",
+"ar": "قرص الفيديو الرقمي",
+"def": "Digital Versatile Disc",
+"cat": "acronym"
+},
+{
+"en": "CD-R",
+"ar": "قرص مضغوط قابل للتسجيل",
+"def": "CD-Recordable",
+"cat": "acronym"
+},
+{
+"en": "HTML",
+"ar": "لغة ترميز النص التشعبي",
+"def": "HyperText Markup Language",
+"cat": "acronym"
+},
+{
+"en": "FTP",
+"ar": "بروتوكول نقل الملفات",
+"def": "File Transfer Protocol",
+"cat": "acronym"
+},
+{
+"en": "WLAN",
+"ar": "الشبكة المحلية اللاسلكية",
+"def": "Wireless Local Area Network",
+"cat": "acronym"
+},
+{
+"en": "WWW",
+"ar": "الشبكة العنكبوتية العالمية",
+"def": "World Wide Web",
+"cat": "acronym"
+},
+{
+"en": "P2P",
+"ar": "من شخص إلى شخص",
+"def": "person-to-person",
+"cat": "acronym"
+},
+{
+"en": "IP",
+"ar": "بروتوكول الإنترنت",
+"def": "Internet Protocol",
+"cat": "acronym"
+},
+{
+"en": "monitor",
+"ar": "الشاشة",
+"def": "",
+"cat": "hw"
+},
+{
+"en": "case",
+"ar": "صندوق الجهاز",
+"def": "",
+"cat": "hw"
+},
+{
+"en": "motherboard",
+"ar": "اللوحة الأم",
+"def": "",
+"cat": "hw"
+},
+{
+"en": "CPU (Central Processing Unit / Processor)",
+"ar": "المعالج",
+"def": "",
+"cat": "hw"
+},
+{
+"en": "main memory (RAM)",
+"ar": "الذاكرة الرئيسية",
+"def": "",
+"cat": "hw"
+},
+{
+"en": "expansion cards (video, graphic)",
+"ar": "بطاقات التوسعة (فيديو/رسوميات)",
+"def": "",
+"cat": "hw"
+},
+{
+"en": "power supply unit",
+"ar": "وحدة التغذية بالطاقة",
+"def": "",
+"cat": "hw"
+},
+{
+"en": "optical disk drive",
+"ar": "مشغّل الأقراص الضوئية (CD/DVD)",
+"def": "",
+"cat": "hw"
+},
+{
+"en": "hard disk drive",
+"ar": "القرص الصلب",
+"def": "",
+"cat": "hw"
+},
+{
+"en": "keyboard",
+"ar": "لوحة المفاتيح",
+"def": "",
+"cat": "hw"
+},
+{
+"en": "mouse",
+"ar": "الفأرة",
+"def": "",
+"cat": "hw"
+},
+{
+"en": "modem",
+"ar": "المودم",
+"def": "",
+"cat": "hw"
+},
+{
+"en": "light",
+"ar": "خفيف",
+"def": "comparative: lighter",
+"cat": "adj"
+},
+{
+"en": "efficient",
+"ar": "فعّال / كفء",
+"def": "comparative: more efficient",
+"cat": "adj"
+},
+{
+"en": "long",
+"ar": "طويل",
+"def": "comparative: longer",
+"cat": "adj"
+},
+{
+"en": "wide",
+"ar": "عريض",
+"def": "comparative: wider",
+"cat": "adj"
+},
+{
+"en": "heavy",
+"ar": "ثقيل",
+"def": "comparative: heavier",
+"cat": "adj"
+},
+{
+"en": "fast",
+"ar": "سريع",
+"def": "comparative: faster",
+"cat": "adj"
+},
+{
+"en": "dark",
+"ar": "داكن",
+"def": "comparative: darker",
+"cat": "adj"
+},
+{
+"en": "soft",
+"ar": "ناعم / لين",
+"def": "comparative: softer",
+"cat": "adj"
+},
+{
+"en": "hard",
+"ar": "صلب / قاسٍ",
+"def": "comparative: harder",
+"cat": "adj"
+},
+{
+"en": "durable",
+"ar": "متين",
+"def": "comparative: more durable",
+"cat": "adj"
+},
+{
+"en": "computer",
+"ar": "الحاسوب",
+"def": "an electronic machine that accepts, processes, stores and outputs information.",
+"cat": "def"
+},
+{
+"en": "hardware",
+"ar": "العتاد (الأجزاء المادية)",
+"def": "any electronic or mechanical part of the computer that you can see or touch.",
+"cat": "def"
+},
+{
+"en": "software",
+"ar": "البرمجيات",
+"def": "a set of instructions, called a program, which tells a computer what to do.",
+"cat": "def"
+},
+{
+"en": "CPU (the heart of the computer)",
+"ar": "المعالج (قلب الحاسوب)",
+"def": "a microprocessor chip which processes data and coordinates the activities of all other units.",
+"cat": "def"
+},
+{
+"en": "main memory",
+"ar": "الذاكرة الرئيسية",
+"def": "holds the instructions and data which are being processed by the CPU. It has two main sections: RAM and ROM",
+"cat": "def"
+},
+{
+"en": "peripherals",
+"ar": "الأجهزة الطرفية",
+"def": "the physical units attached to the computer.",
+"cat": "def"
+},
+{
+"en": "input devices",
+"ar": "أجهزة الإدخال",
+"def": "let us enter data and commands (e.g. the keyboard and the mouse).",
+"cat": "def"
+},
+{
+"en": "output devices",
+"ar": "أجهزة الإخراج",
+"def": "let us extract the results (e.g. the monitor and the printer).",
+"cat": "def"
+},
+{
+"en": "storage devices",
+"ar": "أجهزة التخزين",
+"def": "are used to store information (e.g. hard disks, CDs and DVDs)",
+"cat": "def"
+},
+{
+"en": "modem",
+"ar": "المودم",
+"def": "device that converts data so that it can travel over the Internet.",
+"cat": "def"
+}
+]
+}

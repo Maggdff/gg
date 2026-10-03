@@ -1,0 +1,111 @@
+{
+"items": [
+{
+"id": "be",
+"title": "Present tense of be",
+"titleAr": "المضارع للفعل be (am / is / are)",
+"notesAr": "نستخدم be لنقول من هو الشخص أو ما هو الشيء، ولنسأل أسئلة شخصية.\nI ← am (I'm)\nHe / She / It ← is (He's / She's / It's)\nYou / We / They ← are (You're / We're / They're)\nملكية في الرسالة: my = خاصتي، our = خاصتنا، their = خاصتهم.",
+"rules": [
+"I'm Sam. = I am Sam.",
+"You're/We're/They're from the UK. = You/We/They are from the UK.",
+"He's/She's a website developer. = He/She is a website developer.",
+"It's in the US. = It is in the US."
+],
+"examples": [
+"Where are you from?",
+"What's his name/job? = What is his name/job?",
+"Mahmoud is our network administrator.",
+"Eli and Guido are system maintenance officers."
+]
+},
+{
+"id": "present_simple",
+"title": "Present simple",
+"titleAr": "المضارع البسيط",
+"notesAr": "نستخدم المضارع البسيط للروتين وللأشياء الدائمة أو التي تحدث دائماً.\nمع I / you / we / they: do (سؤال) و don't (نفي).\nمع he / she / it: does (سؤال) و doesn't (نفي) ويضاف s للفعل: works.\nالإجابة المختصرة: Yes, I do. / No, I don't.",
+"rules": [
+"What do you do? I'm a programmer.",
+"What does she do? She's a developer.",
+"Where does she work? She works for IBM in Poland. She doesn't work in Estonia.",
+"Where do they work? They work for Siemens in Egypt.",
+"Do you work in IT? Yes, I do. / No, I don't."
+],
+"examples": [
+"Where do you work, Betty?",
+"Where does she work?"
+]
+},
+{
+"id": "schedules",
+"title": "Schedules",
+"titleAr": "الجداول الزمنية (at مع الساعة)",
+"notesAr": "نستخدم at مع الساعة.\nالسؤال: What time does it start / begin / finish / end?\nstart = begin (يبدأ) ، finish = end (ينتهي).\nللاستراحة: When do you have a break? We have a break at 12.45.",
+"rules": [
+"It starts at 9.15. (nine fifteen / quarter past nine)",
+"It begins at 8.30. (eight thirty / half past eight)",
+"It finishes at 4.00. (four o'clock)",
+"It ends at 5.05. (five oh five / five past five)",
+"We have a break at 12.45. (twelve forty-five / a quarter to one)"
+],
+"examples": [
+"What time does it start?",
+"I start work at 8.15 and finish about 5.00."
+]
+},
+{
+"id": "acronyms",
+"title": "Acronyms and spelling",
+"titleAr": "الاختصارات والتهجئة",
+"notesAr": "Acronym = كلمة مكوّنة من الحروف الأولى لاسم شيء ما.\nstand for = يمثّل / يرمز إلى.\nالسؤال: What does X stand for / mean؟ الجواب: It stands for / means ...\nالحرف Z يُنطق zed في البريطانية و zee في الأمريكية.",
+"rules": [
+"What does CD stand for? It stands for Compact Disc.",
+"What does IP mean? It means Internet Protocol.",
+"How do you spell 'Protocol'? p-r-o-t-o-c-o-l."
+],
+"examples": [
+"What does P2P stand for? P2P stands for person-to-person.",
+"What does HTML stand for? HyperText Markup Language."
+]
+},
+{
+"id": "comparatives",
+"title": "Comparatives",
+"titleAr": "صيغة المقارنة",
+"notesAr": "نستخدم المقارنة للمقارنة بين شخصين أو شيئين.\nالصفات القصيرة: نضيف er ثم than (انتبه للتهجئة: big → bigger، easy → easier، heavy → heavier).\nالصفات الطويلة: more / less ثم than.\nشاذة: good → better ، bad → worse.",
+"rules": [
+"big → bigger: The new monitor was bigger than the old monitor.",
+"fast → faster: Your processor is faster than mine.",
+"easy → easier: It's easier to use than the other one.",
+"difficult → more/less difficult: This version is more difficult to use than the old version.",
+"expensive → more/less expensive: His computer is less expensive than hers.",
+"reliable → more/less reliable: It is more reliable than the one you have.",
+"bad → worse: That screen resolution is much worse than before!",
+"good → better: It's so much better than the old one."
+],
+"examples": [
+"The Corsair is faster than the Imation.",
+"The Corsair is more durable than the Imation."
+]
+},
+{
+"id": "superlatives",
+"title": "Superlatives",
+"titleAr": "صيغة التفضيل",
+"notesAr": "نستخدم صيغة التفضيل لمقارنة شخص أو شيء بعدد من الأشخاص أو الأشياء الأخرى.\nالصفات القصيرة: the + est (big → the biggest، easy → the easiest).\nالصفات الطويلة: the most / the least.\nشاذة: bad → the worst ، good → the best.",
+"rules": [
+"big → the biggest: The new monitor was the biggest in the room.",
+"fast → the fastest: Your version of the software is the fastest.",
+"easy → the easiest: It's the easiest to use.",
+"difficult → the most/least difficult: This version is the most difficult to use.",
+"expensive → the most/least expensive: His computer is the least expensive.",
+"reliable → the most/least reliable: It is the most reliable.",
+"bad → the worst: That is the worst software I've ever used!",
+"good → the best: It's the best I've seen."
+],
+"examples": [
+"Which is the cheapest?",
+"Which is the most user-friendly?"
+]
+}
+]
+}
