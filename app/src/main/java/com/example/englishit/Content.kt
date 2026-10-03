@@ -157,6 +157,20 @@ object Content {
         return out
     }
 
+    /** Rebuilds an exercise from its id (used to resume an unfinished round). */
+    fun exById(id: String): Ex? {
+        byId[id]?.let { return it }
+        if (id.startsWith("auto:match:")) {
+            val items = id.removePrefix("auto:match:").split("|")
+                .mapNotNull { n -> vocab.firstOrNull { it.en == n } }
+            if (items.size < 3) return null
+            val pairs = items.map { it.en to (if (it.def.isNotBlank()) it.def else it.ar) }
+            return Ex(id, "match", "Match each word with its meaning", pairs = pairs,
+                exp = "راجع التعريفات في تبويب الكلمات")
+        }
+        return null
+    }
+
     fun unitExercises(u: UnitData): List<Ex> =
         u.lessons.flatMap { it.exercises + autoPool[it.id].orEmpty() }
 }

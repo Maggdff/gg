@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- speech bubble -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M39,27 h30 a14,14 0 0 1 14,14 v16 a14,14 0 0 1 -14,14 h-19 l-10,13 v-13 h-1 a14,14 0 0 1 -14,-14 v-16 a14,14 0 0 1 14,-14z" />
+    <!-- letter E -->
+    <path
+        android:fillColor="#4F46E5"
+        android:pathData="M40,36 L66,36 L66,41 L47,41 L47,46.5 L62,46.5 L62,51.5 L47,51.5 L47,57 L66,57 L66,62 L40,62z" />
+    <!-- code badge -->
+    <path
+        android:fillColor="#4F46E5"
+        android:pathData="M76,69m-12.6,0a12.6,12.6 0 1,1 25.2,0a12.6,12.6 0 1,1 -25.2,0" />
+    <path
+        android:fillColor="#FFB020"
+        android:pathData="M76,69m-11,0a11,11 0 1,1 22,0a11,11 0 1,1 -22,0" />
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M71.5,64.5 L68,69 L71.5,73.5 M80.5,64.5 L84,69 L80.5,73.5 M77.2,63.5 L74.8,74.5"
+        android:strokeColor="#3B2F9E"
+        android:strokeWidth="2.2"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round" />
+</vector>

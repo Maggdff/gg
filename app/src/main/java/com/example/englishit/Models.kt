@@ -53,3 +53,14 @@ fun spokenText(ex: Ex): String = when (ex.t) {
     "mcq", "order" -> ex.a.firstOrNull() ?: ""
     else -> ""
 }
+
+/** Saved mid-round progress of a path lesson, so the player can resume exactly where they stopped. */
+data class Snap(
+    val ids: List<String>,       // ordered exercise ids of the round (includes re-queued mistakes)
+    val idx: Int,                // next question index
+    val hearts: Int,
+    val correct: Int,
+    val total: Int,
+    val retried: List<String>,
+    val wrongs: List<String>
+)
